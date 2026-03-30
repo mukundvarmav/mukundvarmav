@@ -39,6 +39,47 @@
 ![Top Langs](https://github-readme-stats.vercel.app)
 
 </div>
+<div align="center">
+
+# 🎛️ PROTOCOL: MUKUND VARMA // THE VOID
+`TRIVANDRUM // SECTOR 0471 // AGE: 11`
+
+---
+
+## 🏛️ ARCHITECTURAL DECAY & PARANORMAL SIGHTINGS
+> **"Old stones hold long memories... and some never leave."**
+> 
+> A fusion of **Ancient Indian Architecture** and the supernatural. This profile explores the shadows of crumbling temples, the chilling echoes of **Bhool Bhulaiyaa 3**, and the eventual **End of the Universe**.
+
+---
+
+## 🏎️ THE PERFORMANCE GARAGE
+
+
+| **AUDI R8 (V10)** | **LEXUS ES300 (HYBRID)** |
+| :---: | :---: |
+| <img src="https://upload.wikimedia.org" width="300"> | <img src="https://upload.wikimedia.org" width="300"> |
+
+---
+
+## 🎤 ARTIST SPOTLIGHT: SKY KATZ
+[![Watch Sky Katz](https://img.youtube.com)](https://www.youtube.com)
+*Click the image above to play her video!*
+
+---
+
+## 🕯️ THE GHOST FILES (BHOOL BHULAIYAA 3)
+- 👺 **ENTITY:** The Royal Ghost of the Haveli.
+- 🏚️ **SITE:** Ancient Dravidian Ruins & Palaces.
+- 🌀 **EVENT:** Cosmic Disasters & Universal Heat Death.
+
+---
+
+## 📊 NEURAL NETWORK STATS
+![Top Langs](https://github-readme-stats.vercel.app)
+
+</div>
+
 
 
 <!--
